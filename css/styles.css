@@ -1,0 +1,29 @@
+.body-container{
+    flex-wrap: nowrap;
+}
+
+.left{
+    height: 500px;
+    background-color: thistle;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right{
+    height: 500px;
+    background-color: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.body-copy{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+.page-footer{
+    background-color: rgb(245, 241, 241);
+    color: rgb(0, 0, 0);
+}
