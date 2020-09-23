@@ -1,9 +1,17 @@
+.body{
+    margin: 0px;
+}
+
 .body-container{
     flex-wrap: nowrap;
 }
 
+jumbotron{
+    background-color: thistle;
+}
+
 .left{
-    height: 500px;
+    height: 65vh;
     background-color: thistle;
     display: flex;
     align-items: center;
@@ -11,7 +19,7 @@
 }
 
 .right{
-    height: 500px;
+    height: 65vh;
     background-color: wheat;
     display: flex;
     align-items: center;
